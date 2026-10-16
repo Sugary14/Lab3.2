@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\Admin\source\repos\Lab3\FileName.c(25,5): warning C4013: main1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\source\repos\Lab3\FileName.c(26,5): warning C4013: main2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\source\repos\Lab3\FileName.c(38,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Lab3\FileName.c(41,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Lab3\FileName.c(43,31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\Admin\source\repos\Lab3\x64\Debug\Lab3.exe
